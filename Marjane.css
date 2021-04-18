@@ -1,0 +1,63 @@
+.no-padding{
+  padding:0;
+}
+.no-margin{
+  margin:0;
+}
+
+.padding-list{
+  padding-top:2em;
+  padding-bottom:2em;
+}
+
+.orange-background{ 
+  background-color:#ff3300;
+  color:#ffffff;
+  width:100%;
+}
+
+.title{
+  font-family: "Berkshire Swash";
+  font-size:60px;
+}
+
+.subtitle{
+  font-family: "Shadows Into Light";
+  font-size:30px;
+}
+
+.marjane-pic{
+  width:250px;
+}
+
+.black-background{
+  background-color:#000000;
+  margin:0;
+}
+
+.strong-list{
+  font-weight: bold;
+}
+
+.text-main{
+  color:#d1e0e0;
+  font-family:sans-serif;
+  font-size:20px;
+}
+.marjane-child{
+  width:300px;
+}
+.quote{
+  font-family:"Shadows Into Light";
+  font-size:25px;
+  color:#d1e0e0;
+  font-style:italic;
+  padding-bottom:3em;
+}
+.footer-font{
+  font-family:sans-serif;
+  font-size:17px;
+  color:#d1e0e0;
+  text-align:center;
+  margin-bottom: 0;
+}
